@@ -1,0 +1,13 @@
+highlighter: pygments
+safe: true
+lsi: true
+source: rodrigdav.github.io
+timezone: America/New_York
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      author: "David Rodriguezπ"
